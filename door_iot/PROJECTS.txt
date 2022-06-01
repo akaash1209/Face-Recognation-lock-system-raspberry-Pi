@@ -1,0 +1,24 @@
+1.Face Recognition Door Lock System
+In This project,I had built a door unlocking system using a face-recognition system
+ as a password
+-Data Gathering
+-Training
+-Face Recognition
+--In the first phase, we will collect the face samples that are authorized to open
+ the lock. 
+--In the second phase, we will train the data for recognization.
+--In the last phase, trainer data will be used to recognize the faces.
+ If raspberry pi recognizes a face, it will open the door lock.
+
+2.IoT based drawer locker
+--In this project,I have build an IOT BASED DRAWER LOCKING SYSTEM using esp module,
+solonoid lock,relay and adafruit IO.Here esp will acts as the main controller and 
+connects the user to the drawer lock system.This allows the user to lock and unlock
+his drawer by using smartphone from anywhere
+
+3.Retail Dataset Management
+• I try to find out the weak areas where you can work to make more profit
+• I have Provided solutions of retail Dataset using Pandas, NumPy and matplotlib.
+
+4.Virtual Assistant(friday)
+It is build on python using its packages like pyaudio,pyttsx3,pywhatkit,etc
